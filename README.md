@@ -64,7 +64,7 @@ npm run dev
 
 Acesse o endereço indicado no terminal, geralmente http://localhost:5173/.
 
-🎯 Objetivo acadêmico
+Objetivo acadêmico
 
 Este projeto tem como finalidade praticar o desenvolvimento de interfaces utilizando React, trabalhando com componentes reutilizáveis, propriedades (props), listas de dados em JavaScript e renderização dinâmica com o método map().
 
